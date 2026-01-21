@@ -131,3 +131,6 @@ If additional data or time were available:
 ---
 
 ## 📂 Repository Contents
+https://github.com/Bhagyapatel19/customer-churn-prioritization-revenue-risk/blob/main/ECOMP2.pbix
+https://github.com/Bhagyapatel19/customer-churn-prioritization-revenue-risk/blob/main/ECCBP2.sql
+https://github.com/Bhagyapatel19/customer-churn-prioritization-revenue-risk/blob/main/EcomSS.png
